@@ -5,7 +5,7 @@
         |
         |- impulseフォルダ  インパルス応答波形
         |
-        |- sourceフォルダ   ノコギリ波DOWNスウィープ波形、ホワイトノイズのDOWNスウィープ波形
+        |- sourceフォルダ   ノコギリ波のスウィープDOWN波形、ホワイトノイズのスウィープDOWN波形
         |
         |- ConvolutionPlayer.exe.config
         |                   インパルス畳み込みディレイエフェクトの簡易プレーヤー関連ファイル
